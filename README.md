@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m @michaelles87, also known as Anne Michaëlle B. Stephen.**  
+- 👋 **Hi, I’m @michaelles87, also known as Anne Michaëlle Stephen.**  
   <span style="font-size:15px; font-weight:bold;">A detail-oriented Data Analyst with a passion for solving complex problems, uncovering actionable insights, and crafting compelling data visualizations. With a strong foundation in SQL, Python, Tableau, and Power BI, I thrive on turning raw data into meaningful stories that drive decision-making.</span>  
 - 👀 I’m interested in data analysis, storytelling, hiking, and exploring vegan recipes.  
 - 🌱 I’m currently learning advanced Power BI techniques and enhancing my skills in data visualization.  
